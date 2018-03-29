@@ -1,0 +1,14 @@
+{
+    "name": "Heroku-sample",
+    "description": "A Express based Heroku Sample Application",
+    "version": "0.0.1",
+    "private": true,
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "node server.js"
+    },
+    "dependencies": {
+        "express": "3.x"
+    }
+}
